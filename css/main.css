@@ -61,3 +61,12 @@ body {
   top: 167px;
   left: 520px;
 }
+
+.text {
+  padding: 50px;
+}
+
+.text p {
+  font-size: 30px;
+  font-family: fantasy;
+}
